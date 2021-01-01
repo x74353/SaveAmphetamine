@@ -1,14 +1,15 @@
 # Will You Help Save Amphetamine?
 
 
-## What is Amphetamine?
 [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704?mt=12) is a free app that helps keep your Mac awake. Amphetamine has been on the Mac App Store since 2014 and it’s been downloaded over 432,800 times. It currently has over 1,400 reviews and a 4.8 out of 5.0 rating in the US Mac App Store.
+
 
 
 ## Why Does Amphetamine Need Saving?
 On December 29th, 2020, a representative from Apple contacted and informed me that, after 6 years on the Mac App Store, Amphetamine had spontaniously began violating one of Apple's [App Store Guidelines](https://developer.apple.com/app-store/review/guidelines/#safety). 
 
 Apple then proceeded to threaten to remove Amphetamine from the Mac App Store on January 12th, 2021 if changes to the app were not made. It is my belief that Amphetamine is **not** in violation of any of Apple's Guidelines. It is also my belief that there are a lot of people out there who feel the same way as me, and want to see Amphetamine.app continue to flourish without a complete re-branding.
+
 
 
 ## What Guideline Has Apple Accused Amphetamine of Violating?
@@ -18,6 +19,7 @@ Apple has accused Amphetamine of violating the following guideline:
 
 Apple further specifed:
 *“Your app appears to promote inappropriate use of controlled substances. Specifically, your app name and icon include references to controlled substances, pills.”*
+
 
 
 ## How Can I Help?
@@ -30,6 +32,7 @@ Spread the word! Let the world know that you want to see Amphetamine.app continu
 * Tell your friends/family/colleagues on your next Zoom call
 
 
+
 ## What Happens Next?
 I have filed an appeal/challenge to the Guidelines violation accusation directly with Apple. I do not personally have much faith in Apple reversing course based on the appeal alone, however. Hopefully, Apple will hear the voices of the Mac community and reconsider their decision.
 
@@ -38,7 +41,9 @@ Should Apple refuse to reverse their decision, and thus remove Amphetamine from 
 * Continue raise awareness of Apple's actions and essentially wait for Apple to reinstate Amphetamine on the Mac App Store
 
 
+
 ## What Arguments Can Be Made for Keeping Amphetamine in the Mac App Store?
+
 
 **Argument #1: 
 Amphetamine Does Not Promote the Use of Illegal Drugs or Facilitate the Sale of Controlled Substances**
@@ -52,7 +57,6 @@ The word “amphetamine” itself is simply a shortened version of the organic c
 There is nothing illicit about, or inherently wrong with, the legal use of prescribed amphetamines. The legal use and benefits of prescribed/legally obtained amphetamines cannot be ignored or dismissed simply because there is a potential for illegal abuse of the medication.
 
 Of course, it goes without saying that Amphetamine does not in any way, shape, or form, facilitate the sale of controlled substances.
-
 
 
 **Argument #2: 
@@ -93,6 +97,7 @@ Once, the CEO of a large US-based healthcare group emailed me directly to reques
 As a part-time, small, and independent developer of a 100% free app like Amphetamine, you can understand how I don’t have a marketing budget. I have never purchased ads or otherwise significantly promoted Amphetamine.app on any web-based platform. Amphetamine’s popularity and growth is a direct result of word-of-mouth marketing done by the very people Apple, Inc. claims that Amphetamine.app is harming. 
 
 Amphetamine is a very popular app, and is downloaded hundred to thousands of times every day. Since 2014, Amphetamine.app has been downloaded over 432,800 times.
+
 
 
 **Thank you!**
