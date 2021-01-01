@@ -6,7 +6,7 @@
 
 
 ## Why Does Amphetamine Need Saving?
-On December 29th, 2020, a representative from Apple contacted and informed me that, after 6 years on the Mac App Store, Amphetamine had spontaniously began violating one of Apple's [App Store Guidelines](https://developer.apple.com/app-store/review/guidelines/#safety). 
+On December 29th, 2020, a representative from Apple contacted and informed me that, after 6 years on the Mac App Store, Amphetamine had spontaneously began violating one of Apple's [App Store Guidelines](https://developer.apple.com/app-store/review/guidelines/#safety). 
 
 Apple then proceeded to threaten to remove Amphetamine from the Mac App Store on January 12th, 2021 if changes to the app were not made. It is my belief that Amphetamine is **not** in violation of any of Apple's Guidelines. It is also my belief that there are a lot of people out there who feel the same way as me, and want to see Amphetamine.app continue to flourish without a complete re-branding.
 
@@ -17,7 +17,7 @@ Apple has accused Amphetamine of violating the following guideline:
   
 > 1.4.3 Apps that encourage consumption of tobacco and vape products, illegal drugs, or excessive amounts of alcohol are not permitted on the App Store. Apps that encourage minors to consume any of these substances will be rejected. Facilitating the sale of marijuana, tobacco, or controlled substances (except for licensed pharmacies) isn’t allowed."
 
-Apple further specifed:
+Apple further specified:
 *“Your app appears to promote inappropriate use of controlled substances. Specifically, your app name and icon include references to controlled substances, pills.”*
 
 
