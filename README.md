@@ -25,10 +25,9 @@ Apple further specified:
 ## How Can I Help?
 Spread the word! Let the world know that you want to see Amphetamine.app continue to exist on the Mac App Store. Apple has threatened to remove Amphetamine from the Mac App Store on January 12th, 2021 if Apple's demands are not met.
 
-* Retweet this tweet
-* Share this Facebook post
-* Upvote this Reddit post
-* Sign this Change.org petition
+* Retweet [this tweet](https://twitter.com/x74353/status/1345051769555054592?s=20)
+* Upvote [this Reddit post](https://www.reddit.com/r/macapps/comments/koeyok/will_you_help_save_amphetamine/)
+* Sign [this Change.org petition](https://www.change.org/p/apple-save-amphetamine-app)
 * Tell your friends/family/colleagues on your next Zoom call
 
 
