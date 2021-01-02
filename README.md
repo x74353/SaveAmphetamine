@@ -1,4 +1,15 @@
-# Will You Help Save Amphetamine?
+
+# Update: Amphetamine Has Been Saved!
+
+On January 2nd, 2021, I received a call from Apple to discuss the results of my appeal. On that call, an Apple representative stated that Apple now recognizes that the world "amphetamine" and the pill icon are being used "metaphorically", and in a "medical sense."
+
+Thank you to all for sharing this story and helping to keep Amphetamine in the App Store.
+<BR><BR>
+William Gustafson<BR>
+Amphetamine Creator
+
+<BR><BR><BR><BR>
+## Will You Help Save Amphetamine?
 
 
 [Amphetamine](https://apps.apple.com/app/amphetamine/id937984704?mt=12) is a free app that helps keep your Mac awake. Amphetamine has been on the Mac App Store since 2014 and it’s been downloaded over 432,800 times. It currently has over 1,400 reviews and a 4.8 out of 5.0 rating in the US Mac App Store.
