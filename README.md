@@ -1,7 +1,7 @@
 
 # Update: Amphetamine Has Been Saved!
 
-On January 2nd, 2021, I received a call from Apple to discuss the results of my appeal. On that call, an Apple representative stated that Apple now recognizes that the world "amphetamine" and the pill icon are being used "metaphorically", and in a "medical sense."
+On January 2nd, 2021, I received a call from Apple to discuss the results of my appeal. On that call, an Apple representative stated that Apple now recognizes that the word "amphetamine" and the pill icon are being used "metaphorically", and in a "medical sense."
 
 Thank you to all for sharing this story and helping to keep Amphetamine in the App Store.
 <BR><BR>
