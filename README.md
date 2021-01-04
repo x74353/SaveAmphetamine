@@ -60,7 +60,7 @@ Amphetamine Does Not Promote the Use of Illegal Drugs or Facilitate the Sale of 
 
 Amphetamine does not promote the use of illegal drugs. Not only that, Amphetamine does not promote the recreational use of legal/prescribed drugs. In the United States, amphetamine is prescribed by doctors to adults for narcolepsy and to children for ADHD. 
 
-Adderall®, Concerta®, Dexedrine®, Focalin®, Metadate®, Methylin®, Ritalin® are all “brand name” amphetamines. There are other  “generic” brands as well. These medications come in the form of a pill. Amphetamine’s icon includes a graphical representation of such a pill. Objectively speaking, there’s no imagery or text in Amphetamine’s icon that suggest the pill should be taken irresponsibly, illegally, or recreationally. 
+Adderall®, Dexedrine®, Vyvanse®, Evekeo®, Adzenys®, and Desoxyn® are all “brand name” amphetamines. There are other  “generic” brands as well. These medications come in the form of a pill. Amphetamine’s icon includes a graphical representation of such a pill. Objectively speaking, there’s no imagery or text in Amphetamine’s icon that suggest the pill should be taken irresponsibly, illegally, or recreationally. 
 
 The word “amphetamine” itself is simply a shortened version of the organic compound “alpha-methylphenethylamine.” "Amphetamine” is not a “street-name/slang” for the organic compound, and in no way promotes its irresponsible, illegal, or recreational use. Just like amphetamine (the organic compound) can be legally used to keep humans awake and attentive, Amphetamine (the app) can be legally used to keep your Mac awake.  
 
